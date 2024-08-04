@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z1/QH5PA4i9iVwHoqG7KtvNbZGrV56rc3yVEriTlqW8=",
+  "Source": "Login Service with JWT Auth",
+  "BasePath": "_content/Login Service with JWT Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
